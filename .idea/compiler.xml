@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Seminar_2" />
+        <module name="lesson1_full" />
+        <module name="Seminar_1" />
+        <module name="Homework_2" />
+        <module name="Homework_1" />
+        <module name="Homework_6" />
+        <module name="OOP_Homework_1" />
+        <module name="oopExp1" />
+        <module name="Homework_5" />
+        <module name="Experiments" />
+        <module name="Homework_4" />
+        <module name="Homework_3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Experiments" target="17" />
+      <module name="Homework_1" target="17" />
+      <module name="Homework_2" target="17" />
+      <module name="Homework_3" target="17" />
+      <module name="Homework_4" target="17" />
+      <module name="Homework_5" target="17" />
+      <module name="Homework_6" target="17" />
+      <module name="lesson1_full" target="17" />
+      <module name="OOP_Homework_1" target="17" />
+      <module name="oopExp1" target="17" />
+      <module name="Seminar_1" target="17" />
+      <module name="Seminar_2" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

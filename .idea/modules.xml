@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Experiments/Experiments.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Experiments/Experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_1/Homework_1.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_1/Homework_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_2/Homework_2.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_2/Homework_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_3/Homework_3.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_3/Homework_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_4/Homework_4.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_4/Homework_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_5/Homework_5.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_5/Homework_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Homework_6/Homework_6.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Homework_6/Homework_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/OOP_Homework_1/OOP_Homework_1.iml" filepath="$PROJECT_DIR$/JAVA/newJava/OOP_Homework_1/OOP_Homework_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Seminar_1/Seminar_1.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Seminar_1/Seminar_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/Seminar_2/Seminar_2.iml" filepath="$PROJECT_DIR$/JAVA/newJava/Seminar_2/Seminar_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learningСode.iml" filepath="$PROJECT_DIR$/.idea/learningСode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/AlgoDS/lesson1_full/lesson1_full.iml" filepath="$PROJECT_DIR$/JAVA/AlgoDS/lesson1_full/lesson1_full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/newJava/oopExp1/oopExp1.iml" filepath="$PROJECT_DIR$/JAVA/newJava/oopExp1/oopExp1.iml" />
+    </modules>
+  </component>
+</project>
